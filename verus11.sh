@@ -1,4 +1,4 @@
-crlt+c
+CTRL + C
 
 cd ngoc
 seq 7
