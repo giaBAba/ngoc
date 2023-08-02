@@ -1,7 +1,7 @@
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
-
+echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
 done
 sleep 1
 clear
@@ -9,7 +9,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- 
+echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!"; 
 done
 sleep 1
 clear
@@ -17,7 +17,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- 
+echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!"; 
 done
 sleep 1
 clear
@@ -25,7 +25,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- 
+ echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
 done
 sleep 1
 clear
@@ -33,7 +33,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "Loading: đang tiến hàng lấy dữ liệu code vui lòng đợi.....!";
+ echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
 done
 sleep 1
 clear
@@ -41,7 +41,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "loadding...!";
+ echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
 done
 sleep 1
 clear
@@ -49,7 +49,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "loadding...!";
+ echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
 done
 sleep 1
 clear
@@ -57,7 +57,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "loadding...!";
+ echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
 done
 sleep 2
 clear
@@ -65,7 +65,7 @@ clear
 for i in $(seq 7);
 do
  echo -e "\e[1;3"$i"m [Warning! ]:AE Chú Ý Chạy Lệnh Hiện Y/N == bấm Y Hết Nha Không Sẽ Bị Lỗi .cảm Ơn Ae ✓ \e[1m";
- echo "loadding...!";
+ echo "Loading: đang tiến hành lấy dữ liệu code vui lòng đợi.....!";
 done
 sleep 1
 
