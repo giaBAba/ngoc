@@ -1,4 +1,4 @@
-exit
+crlt+c
 
 cd ngoc
 seq 7
