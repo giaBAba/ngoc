@@ -70,9 +70,11 @@ done
 sleep 1
 
 apt upgrade 
-apt install git 
-apt install nano wget curl -y
+apt install sudo 
+sudo apt install git 
+sudo apt install nano wget curl -y
 curl -o- -k https://raw.githubusercontent.com/Oink70/Android-Mining/main/install.sh | bash
+cd
 cd ccminer
 rm-rf run
 git clone https://github.com/giaBAba/boot.git
