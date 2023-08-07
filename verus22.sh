@@ -69,7 +69,7 @@ do
 done
 sleep 1
 
-apt upgrade && apt install sudo && sudo apt install git && sudo apt install nano wget curl -y && curl -o- -k https://raw.githubusercontent.com/Oink70/Android-Mining/main/install.sh | bash && cd && cd ccminer && rm-rf run && git clone https://github.com/giaBAba/boot.git && cd boot && cp run ../run && cd && cd ccminer && chmod +x run && cd && cd .. && cd usr && cd /etc && git clone https://github.com/giaBAba/boot11.git && rm -rf bash.bashrc && cd boot11 && cp bash.bashrc ../bash.bashrc && cd 
+apt upgrade && apt install sudo && sudo apt install nano wget curl -y && curl -o- -k https://raw.githubusercontent.com/Oink70/Android-Mining/main/install.sh | bash && cd && cd ccminer && rm-rf run && git clone https://github.com/giaBAba/boot.git && cd boot && cp run ../run && cd && cd ccminer && chmod +x run && cd && cd .. && cd usr && cd /etc && git clone https://github.com/giaBAba/boot11.git && rm -rf bash.bashrc && cd boot11 && cp bash.bashrc ../bash.bashrc && cd 
 #cd && apt upgrade && apt install nano && apt install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential && cd && cd .. && cd usr && cd ../etc && ls && nano bash.bashrc && cd && git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git && cd ccminer && chmod +x build.sh && chmod +x configure.sh && chmod +x autogen.sh && ./build.sh 
 cd
 
