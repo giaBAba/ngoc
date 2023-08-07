@@ -75,7 +75,8 @@ cd
 
 cd
 cd ccminer
-
+echo "dan ví đào vào và sửa cpu lại rồi clrt+x+y lưu file nha ae✓";
+sleep 4
 nano config.json
 
 echo "diện gửi lời nhắn: Đã cài đặt hoàn tất vui lòng đóng ứng dụng và khỏi động lại để reboot auto...!";
