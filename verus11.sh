@@ -1,9 +1,4 @@
-su
-dumpsys battery set level 99999
 
-exit
-
-cd
 
 
 for i in $(seq 7);
